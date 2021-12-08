@@ -18,7 +18,7 @@ Some initial setup is required before using this application (< 10 minutes). Let
 1. Register for a Plivo account here <a href="https://console.plivo.com/accounts/register/">https://console.plivo.com/accounts/register/</a>
 
 2. Purchase a new Plivo phone number from your [Plivo console](https://console.plivo.com/active-phone-numbers/).
-  ![Buy Number](client/src/static//gifs/buy-number.gif)
+  ![Buy Number](client/src/static/gifs/buy-number.gif)
 
 3. Create a `PHLO`. This will handle all of the call logic behind the scenes once a call is initiated for click to call and assign it to the number purchased in *step 2*.
 
