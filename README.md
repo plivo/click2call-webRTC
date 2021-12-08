@@ -147,6 +147,6 @@ npm run start
 * [Plivo](https://www.plivo.com/) - Making and receiving calls
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
+This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/plivo/click2call-webRTC/blob/main/LICENSE) file for details
 
 
