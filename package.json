@@ -10,7 +10,7 @@
     "start": "nodemon server/index.js",
     "heroku-postbuild": "webpack -p"
   },
-  "author": "Plivo Devloper experience Team",
+  "author": "Plivo Developer experience Team",
   "license": "ISC",
   "dependencies": {
     "eslint": "^8.2.0",
