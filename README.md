@@ -106,7 +106,7 @@ Some initial setup is required before using this application (< 10 minutes). Let
 ```
 git clone https://github.com/plivo/click2call-webRTC.git
 
-cd webRTC-phone
+cd click2call-webRTC
 ```
 
 ### Setting up your app
